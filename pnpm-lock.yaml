@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@patternfly-v5/patternfly':
+        specifier: npm:@patternfly/patternfly@^5.2.0
+        version: '@patternfly/patternfly@5.2.0'
+
+packages:
+
+  '@patternfly/patternfly@5.2.0':
+    resolution: {integrity: sha512-phdsXcCRO+JICFXIKtORxSbOWoBr9zRCgtFTKTJ8hAIzm6wEUCdcHZrvsd+SXNR3q/4b/+KlmHUC4Q4KGUiuYw==}
+
+snapshots:
+
+  '@patternfly/patternfly@5.2.0': {}
