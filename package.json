@@ -1,6 +1,7 @@
 {
   "packageManager": "pnpm@9.0.4",
   "dependencies": {
-    "@patternfly-v5/patternfly": "npm:@patternfly/patternfly@^5.2.0"
+    "@patternfly-v5/patternfly": "npm:@patternfly/patternfly@^5.2.0",
+    "jwt-decode": "^3.1.2"
   }
 }
